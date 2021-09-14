@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    align-items: center;
+}
+.start{
+    background-color: grey;
+    padding: 10px;
+    font-size: 20px;
+    color: green;
+    width: 100vw;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
